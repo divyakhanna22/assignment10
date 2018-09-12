@@ -3,8 +3,8 @@ public class CopyFileContents
 {
 	public static void main(String[] x)
 	{
-		File f1 = new File("C:/Users/Acer/Desktop/Divya/Java-Acadview/myfile.txt");
-		File f2 = new File("C:/Users/Acer/Desktop/Divya/Java-Acadview/mynewfile.txt");
+		File f1 = new File("C:/Users/Acer/Desktop/Divya/Java-Acadview/assignment10/myfile.txt");
+		File f2 = new File("C:/Users/Acer/Desktop/Divya/Java-Acadview/assignment10/mynewfile.txt");
 		
 		int i;
 		try{
